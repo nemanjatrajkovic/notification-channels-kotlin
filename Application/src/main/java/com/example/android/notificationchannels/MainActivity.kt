@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+ /* 1. adding test comment */
+ 
 package com.example.android.notificationchannels
 
 import android.app.Activity
