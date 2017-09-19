@@ -15,6 +15,7 @@
  */
 
  /* 1. adding test comment */
+ /* 2. adding test comment */
  
 package com.example.android.notificationchannels
 
